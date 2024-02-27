@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.header button {
+  background: rgb(0, 110, 255);
+  height: 50px;
+  width: 50px;
+  border: none;
+  cursor: pointer;
+  font-size: 30px;
+  color: white;
+  border-radius: 10px;
+}
+.header {
+  color: white;
+}
+body {
+  background: #282c34;
+}
